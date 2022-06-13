@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _getpath - This functions finds and return the PATH
+ * _getpath - Is a functions that finds and return the PATH
  * variable for the global environment vector
  *
  * Return: PATH, if found, or NULL
